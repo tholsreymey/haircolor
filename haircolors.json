@@ -1,0 +1,184 @@
+[
+    {
+        "id":1,
+        "name":"Feria",
+        "image":"",
+        "description":"Multi faceted shimmering permanent hair color(more colors)",
+        "price":"$13.99"
+    },
+     {
+        "id":2,
+        "name":"Excellence",
+        "image":"",
+        "description":"Universal Nudes(more colors)",
+        "price":"14.99$"
+    },
+     {
+        "id":3,
+        "name":"Magic Root",
+        "image":"",
+        "description":"Cover Up(more colors)",
+        "price":"$12.99"
+    },
+     {
+        "id":4,
+        "name":"Excellence",
+        "image":"",
+        "description":"Creme Permanent Triple Care hair color(more colors)",
+        "price":"$12.99"
+    },
+     {
+        "id":5,
+        "name":"Superior Preference",
+        "image":"",
+        "description":"Fade Defying Shine Permanent hair color(more colors)",
+        "price":"$13.99"
+    },
+     {
+        "id":6,
+        "name":"Colorista",
+        "image":"",
+        "description":"Colorista hair cleach & Lightener at home(two colors)",
+        "price":"$12.99"
+    },
+     {
+        "id":7,
+        "name":"Colorista",
+        "image":"",
+        "description":"Hair color devicce",
+        "price":"$124.99"
+    },
+     {
+        "id":8,
+        "name":"Colorista",
+        "image":"",
+        "description":"Permanent hair color cartrige",
+        "price":"$29.99"
+    },
+     {
+        "id":9,
+        "name":"Colorista",
+        "image":"",
+        "description":"Hair makeup temporary 1 day hair color spray(more colors)",
+        "price":"$11.99"
+    },
+     {
+        "id":10,
+        "name":"Colorista",
+        "image":"",
+        "description":"Semi permanent hair color(green,pink,purple,and more colors)",
+        "price":"$12.99"
+    },
+     {
+        "id":11,
+        "name":"Feria",
+        "image":"",
+        "description":"Hyper platinum advanced lightening system bleach(more colors)",
+        "price":"$13.99"
+    },
+     {
+        "id":12,
+        "name":"Feria",
+        "image":"",
+        "description":"Power toner,long lastig anti brass toner(brown,white,and more colors)",
+        "price":"$13.99"
+    },
+     {
+        "id":13,
+        "name":"Colorista",
+        "image":"",
+        "description":"Colorista at home hair bleach & lightener",
+        "price":"$12.99"
+    },
+     {
+        "id":14,
+        "name":"Excellence",
+        "image":"",
+        "description":"cool supreme permanent gray coverage hair color(black,brown,and more colors)",
+        "price":"$12.99"
+    },
+     {
+        "id":15,
+        "name":"Superior Preference",
+        "image":"",
+        "description":"Balayage at home highlighting kit",
+        "price":"$16.99"
+    },
+     {
+        "id":16,
+        "name":"Superior Preference",
+        "image":"",
+        "description":"Cool blonde fade defying shine permanent hair color",
+        "price":"$11.99"
+    },
+     {
+        "id":17,
+        "name":"Excellence",
+        "image":"",
+        "description":"Age perfect(white,and more colors)",
+        "price":"$12.99"
+    }, 
+    {
+        "id":18,
+        "name":"Le Color Gloss",
+        "image":"",
+        "description":"One step in shower toning gloss(white,brown,ane more colors)",
+        "price":"$15.99"
+    },
+     {
+        "id":19,
+        "name":"Feria",
+        "image":"",
+        "description":"Midnight bold multi faceted permanent hair color",
+        "price":"$13.99"
+    },
+     {
+        "id":20,
+        "name":"Magic Root",
+        "image":"",
+        "description":"Permanent 10 minute root colorign kit(black,brown,and more colors)",
+        "price":"$7.99"
+    },
+     {
+        "id":21,
+        "name":"Magic Root",
+        "image":"",
+        "description":"Precision Pen(three colors)",
+        "price":"$12.99"
+    },
+     {
+        "id":22,
+        "name":"Magic Root",
+        "image":"",
+        "description":"concealer spray,blondes with dark roots(two colors)",
+        "price":"$12.99"
+    },
+     {
+        "id":23,
+        "name":"La Petite Frost",
+        "image":"",
+        "description":"La petite frost(two colors)",
+        "price":"$8.99"
+    },
+     {
+        "id":24,
+        "name":"Frost and Desing",
+        "image":"",
+        "description":"Forst and Design(two colors)",
+        "price":"$13.99"
+    },
+     {
+        "id":25,
+        "name":"Couleur Experte",
+        "image":"",
+        "description":"Couleur Experte(more colors)",
+        "price":"$14.99"
+    },
+     {
+        "id":26,
+        "name":"Colorista Secrets",
+        "image":"",
+        "description":"Gaircolor remover",
+        "price":"$14.99"
+    }
+]
